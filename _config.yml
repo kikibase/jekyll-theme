@@ -1,7 +1,7 @@
-title: Jekyll's blog
-author: NGUYEN DINH QUANG
-email: quangnd.hust@gmail.com
-url: "https://qndev.github.io"
+title: WHATSYOURBLOGNAME
+author: WriteNameHere
+email: replace@gmail.com
+url: 
 baseurl: "/jekyll-theme"
 
 # Pagination
@@ -12,7 +12,7 @@ paginate_path: "/page:num/"
 disqus:
   shortname: jekyll-theme
 
-google_analytics: # UA-NNNNNNNN-N
+
 
 feeds:
   feedburner: jekyll-theme
@@ -31,8 +31,8 @@ kramdown:
   show_warnings: false
 
 social_links:
-  github: qndev
-  twitter: AmaryllisApril
+  github: 
+  twitter: 
 
 plugins:
   - jekyll-gist
